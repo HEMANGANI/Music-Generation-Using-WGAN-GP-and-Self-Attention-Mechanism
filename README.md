@@ -2,6 +2,8 @@
 
 This repository contains the implementation of a music generation model using Wasserstein Generative Adversarial Networks with Gradient Penalty (WGAN-GP), enhanced with a self-attention mechanism designed to create melodic compositions. This project aims to explore the capabilities of GANs in the realm of music generation. Utilizing the 17-track Lakh Pianoroll Dataset, the model applies advanced techniques to generate high-quality and coherent musical sequences through stable training and capturing extensive musical patterns.
 
+Conducted a human listener study where 30% identified AI-generated pieces, and 90% found the music pleasing.
+
 ## Model Architecture
 
 ### Generator Network (GenConvNet)
