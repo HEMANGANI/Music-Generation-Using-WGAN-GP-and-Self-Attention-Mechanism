@@ -1,6 +1,6 @@
 # From Bytes to Beats: Music Generation Using WGAN-GP and Self-Attention Mechanism
 
-This repository contains the implementation of a music generation model using Wasserstein Generative Adversarial Networks with Gradient Penalty (WGAN-GP), enhanced with a self-attention mechanism designed to create melodic compositions. This project aims to explore the capabilities of GANs in the realm of music generation. Utilizing the Lakh Pianoroll Dataset, the model applies advanced techniques to generate high-quality and coherent musical sequences.
+This repository contains the implementation of a music generation model using Wasserstein Generative Adversarial Networks with Gradient Penalty (WGAN-GP), enhanced with a self-attention mechanism designed to create melodic compositions. This project aims to explore the capabilities of GANs in the realm of music generation. Utilizing the 17-track Lakh Pianoroll Dataset, the model applies advanced techniques to generate high-quality and coherent musical sequences.
 
 ## Model Architecture
 
