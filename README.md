@@ -4,6 +4,8 @@ This repository contains the implementation of a music generation model using Wa
 
 Conducted a human listener study where 30% identified AI-generated pieces, and 90% found the music pleasing.
 
+Link to video - https://drive.google.com/file/d/18ImPvYC1iZCmFUCX1c3LaQ44FLRElF6G/view
+
 ## Model Architecture
 
 ### Generator Network (GenConvNet)
